@@ -2,14 +2,19 @@ import React from "react";
 
 const experiences = [
   {
-    title: "Frontend Developer",
-    period: "2023 — Present",
-    details: "Designing and building user-facing products with a strong emphasis on usability and performance.",
+    title: "Full Stack Developer",
+    period: "Jan 2026 — Present",
+    details: "IBadvisory",
   },
   {
-    title: "Web Development Intern",
-    period: "2022 — 2023",
-    details: "Worked closely with teams to improve interface quality and implement responsive web features.",
+    title: "Frontend Developer",
+    period: "Feb 2023 — Dec 2024",
+    details: "Metric tree labs",
+  },
+   {
+    title: "Junior React Developer",
+    period: "Mar 2022 — Feb 2023",
+    details: "Dataspot Technologies",
   },
 ];
 
